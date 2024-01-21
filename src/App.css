@@ -1,0 +1,21 @@
+*{
+    /* background-color: #F2F597; */
+    /* z-index: 1; */
+}
+.inputBox{
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.inputBox Input{
+    margin-right: 10px;
+}
+.displaySection{
+    /* background-color: ; */
+    margin: 29px;
+    padding: 29px;
+    background-color: #492E87;
+    border-radius: 10px;
+}
